@@ -14,6 +14,6 @@ Then visit
 3. http://localhost:8000/tree
 4. http://localhost:8000/tree/1
 
-TODO yet not done 
-fetch user list from dynamic repo 
+TODO yet not done, 
+Fetch user list from dynamic repo 
 
